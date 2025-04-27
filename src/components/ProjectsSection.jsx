@@ -49,7 +49,7 @@ const ProjectsSection = () => {
       image: "../images/corpland.png",
       websiteUrl: "https://www.corplandsecurity.org.ng/",
       graphics: [
-        { type: "image", src: "../images/corplogo.jpg", label: "Logo" },
+        { type: "image", src: "../images/corplogo.gif", label: "Logo" },
         { type: "pdf", src: "../images/corprofile.pdf", label: "Company Profile" },
         { type: "pdf", src: "../images/card.pdf", label: "Business Card" },
       ],
