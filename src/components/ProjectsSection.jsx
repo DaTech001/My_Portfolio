@@ -49,9 +49,8 @@ const ProjectsSection = () => {
       image: "../images/corpland.png",
       websiteUrl: "https://www.corplandsecurity.org.ng/",
       graphics: [
-        { type: "image", src: "../images/greenlogo.jpg", label: "Logo" },
-        { type: "pdf", src: "../images/greenprofile.pdf", label: "Company Profile" },
-        { type: "pdf", src: "../images/greenletter.pdf", label: "Letterhead" },
+        { type: "image", src: "../images/corplogo.jpg", label: "Logo" },
+        { type: "pdf", src: "../images/corprofile.pdf", label: "Company Profile" },
         { type: "pdf", src: "../images/card.pdf", label: "Business Card" },
       ],
       techStack: ["HTML", "CSS", "Bootstrap", "JavaScript","Adobe Photoshop", "CorelDraw", "Canvas"],
